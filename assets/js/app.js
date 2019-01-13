@@ -11,3 +11,11 @@ var app = {
 $("document").ready(function () {
   app.init();
 });
+
+
+$('.showSingle').click(function () {
+  $('.targetDiv').hide();
+  $('.showSingle').removeClass('greenactive');
+  $(this).addClass("greenactive")
+  $('#div' + $(this).attr('target')).show();
+});

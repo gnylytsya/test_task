@@ -1,1 +1,2 @@
-
+npm i
+gulp dev
