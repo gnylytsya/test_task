@@ -1,0 +1,12 @@
+.nav-item {
+    &:visited {
+      color: #5cb68c;
+      height: 100%;
+    }
+    &:hover{
+      text-decoration: none;
+      color: #fff;
+      background: #5cb68c;
+      height: 100%;
+    }
+  }

@@ -1,9 +1,25 @@
-@import "components/brands/__container/brands__container";
-@import "components/brands/__items/brands__items";
-@import "components/brands/__cro/brands_cro";
-@import "components/brands/__paid-media/brands_paid-media";
 @import "components/navbar/_navbar";
+@import "components/navbar/_navbar-a";
+@import "components/navbar/_nav-item";
+@import "components/navbar/_navbar__button-container";
+@import "components/navbar/_navbar__button-login";
+@import "components/navbar/navbar-brand";
+
+@import "components/animation/_animation";
 @import "components/clients/clients__menu-li";
-@import "components/animation/_animation"
+@import "components/clients/targetDiv";
 
-
+@import "components/brands/__container/_brands__container";
+@import "components/brands/__items/_brands__items";
+@import "components/brands/__cro/_brands__item-cro-reishuncer";
+@import "components/brands/__cro/_brands__item-cro-koawach";
+@import "components/brands/__cro/_brands__item-cro-beliani";
+@import "components/brands/__cro/_brands__item-cro-shirtcity";
+@import "components/brands/__cro/_brands__item-cro";
+@import "components/brands/__cro/_brands__items-cro";
+@import "components/brands/__cro/_brands__item-content-cro";
+@import "components/brands/__paid-media/_brands__item-paid-media-reishuncer";
+@import "components/brands/__paid-media/_brands__item-paid-media-koawach";
+@import "components/brands/__paid-media/_brands__item-paid-media-beliani";
+@import "components/brands/__paid-media/_brands__item-paid-media";
+@import "components/brands/__paid-media/_brands__items-paid-media"

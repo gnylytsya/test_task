@@ -1,0 +1,9 @@
+.brands__item-paid-media-reishuncer {
+    grid-column: 1 / 2;
+    grid-row: 1;
+    background-position: center;
+    background-color: #2a1c47;
+    &:hover {
+      background-image: url(/assets/img/studies/1/background.png);
+    }
+  }
